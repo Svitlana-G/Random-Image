@@ -1,0 +1,13 @@
+img{
+    width: 50%;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    margin-bottom: 2vh;
+}
